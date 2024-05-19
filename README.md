@@ -1,5 +1,4 @@
-# Diwali-Sales-Analysis
-Diwali Sales Analysis using Python
+# Diwali Sales Analysis using Python
 
 # PROJECT OBJECTIVES:
 - The motive of this project is to help the store to understand its business growth by answering simple questions using Exploratory Data Analysis (EDA) in Python.
